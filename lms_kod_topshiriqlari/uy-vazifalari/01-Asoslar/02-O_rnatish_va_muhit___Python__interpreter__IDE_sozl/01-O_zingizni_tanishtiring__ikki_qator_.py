@@ -1,0 +1,1 @@
+print(f"Assalomu alaykum!\nMen Python dasturlash tilini o'rganyapman.")
