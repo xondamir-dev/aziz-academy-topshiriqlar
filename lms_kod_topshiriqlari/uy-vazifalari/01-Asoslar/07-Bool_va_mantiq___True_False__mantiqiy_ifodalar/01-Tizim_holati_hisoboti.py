@@ -1,0 +1,5 @@
+print("=== TIZIM HOLATI ===")
+print("Server ishlayapti: True")
+print("Bazaga ulangan: True")
+print("Xatolik bor: False")
+print("Xavsizlik : True")
