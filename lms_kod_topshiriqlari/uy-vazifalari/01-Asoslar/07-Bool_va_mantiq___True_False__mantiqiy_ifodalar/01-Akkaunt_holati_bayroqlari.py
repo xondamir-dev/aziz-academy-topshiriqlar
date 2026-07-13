@@ -1,3 +1,3 @@
-print("Ro'yhatdan o'tgan: True")
-print("Email tasdilangan: False")
+print("Ro'yxatdan o'tgan: True")
+print("Email tasdiqlangan: False")
 print("Bloklangan: False")
