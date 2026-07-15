@@ -1,0 +1,5 @@
+a= input()
+b = input()
+c = len(b)
+print(f"Login: {a}")
+print(f"Parol uzunligi: {c}")
