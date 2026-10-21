@@ -1,1 +1,1 @@
-print(f"olma\nnok\nuzum")
+print("olma\nnok\nuzum")
